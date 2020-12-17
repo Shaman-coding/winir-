@@ -1,0 +1,17 @@
+.headerWrapper img {
+    width: 150px;
+}
+
+.headerBlocs {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.line {
+    width: 100%;
+    height: 2px;
+    background:#52C2A8FF;
+}
+
