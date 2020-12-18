@@ -1,0 +1,25 @@
+.title {
+    text-align: center;
+    
+}
+
+.subtitle {
+    margin-top: 2em;
+    text-align: center;
+    border-bottom: 2px solid; 
+}
+
+.wrapperWinir {
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 1fr 1fr ;
+    grid-row-gap: 10vh;
+    text-align: center;
+    border-bottom: 2px solid;
+    margin-top: 20px;
+}
+
+.subtitleKolibri {
+    text-align: center;
+}
+
