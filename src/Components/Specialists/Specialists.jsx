@@ -27,7 +27,6 @@ export const Specialists = () => {
                     
                     </div>
 
-
                     <div className={C.wrapperDoctor}>
                         <div className={C.winirDoc}>
                             <div className={C.imgPhoto}>
