@@ -1,0 +1,10 @@
+.App {
+    display: grid;
+    grid-template-rows: 1fr ;
+    grid-template-columns:2fr 10fr ;
+    width: 100%;
+    grid-template-areas:
+    "h h"
+    "n c"
+  ;
+}

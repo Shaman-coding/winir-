@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+}
+.wrapperImg {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1vh;
+    margin: 1em ;
+}
+
+
+.wrapperImg img  {
+    width: 500px;
+    
+}
+
+.wrapperDescription {
+    margin: 1em;
+}

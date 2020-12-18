@@ -1,0 +1,27 @@
+.WrapperNav {
+    grid-area: n;
+    background: #52C2A8FF;
+    text-align: center;
+   
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 13px;
+    
+}
+
+.NavItem {
+    padding: 1em;
+
+}
+
+a.active {
+    color:white;
+    border-bottom: 2px solid white;
+    
+    
+}
+

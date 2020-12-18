@@ -1,7 +1,9 @@
 .headerWrapper img {
     width: 150px;
 }
-
+.headerWrapper {
+    grid-area: h;
+}
 .headerBlocs {
     display: flex;
     align-items: center;

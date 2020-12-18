@@ -1,0 +1,20 @@
+.img img {
+   max-width: 500px;
+}
+
+.title {
+    text-align: center;
+}
+.WrapperCards {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr  ;
+    grid-template-rows: 1fr 1fr ;
+}
+
+.ServicesCards {
+    margin-left: 50px;
+    margin-top: 1em;
+    text-align: center;
+}
+

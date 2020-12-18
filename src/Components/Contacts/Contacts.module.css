@@ -1,0 +1,21 @@
+
+.Maps {
+    margin-right: 3em;
+}
+
+.WrapperMaps {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+span {
+    font-weight: bold;
+}
+
+.WrapperInfo {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
