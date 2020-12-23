@@ -3,12 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import { BrowserRouter } from 'react-router-dom';
+import localStorage from './localStorage/localStorage';
 
 
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
-      <App />
+      <App localStorage={localStorage}/>
     </BrowserRouter>
     
   </React.StrictMode>,
