@@ -124,7 +124,7 @@ export const Specialists = () => {
                     <div className={C.wrapperDoctor}>
                         <div className={C.winirDoc}>
                             <div className={C.imgPhoto}>
-                                <img src={'https://lh3.googleusercontent.com/proxy/m66v8aVjevt82jPtRudQASBNYLQtueO93F_gVbeVu9UwiYaiWjPxJh-2gwrIXxOTtehOUdo1nluvv7zwVTO9o1cRd56vrMo2ngy6i_eoSxzoBgdKbdG54aDLfc9L4I8pv7QuEktd88ANwBB_GQ'}/>
+                                <img src={'https://www.prezi-dent.ru/assets/doctors/vidnoe/pozdnyakov-dg1.jpg'}/>
                             </div>  
                                
                             

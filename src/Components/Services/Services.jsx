@@ -52,7 +52,7 @@ export const Services = () => {
 
                     <div className={S.ServicesCards}>
                         <div className={S.img}>
-                            <img src={'https://lh3.googleusercontent.com/proxy/hGamlYrP9GfGOx7UuY0zbd2Vdjc94c8A4c4B3afoFjJRqbFbt-O7T76bJPkEPKsbW3umjPC8s6MYz64F8f3m7C_F-6E--YlAazVWb-euG3cH4A'}/>
+                            <img src={'https://www.stomatologia-ilatan.ru/wp-content/uploads/2019/02/hirurgiya9.jpg'}/>
                         </div>
 
                         <div className={S.description}>
@@ -62,7 +62,7 @@ export const Services = () => {
 
                     <div className={S.ServicesCards}>
                         <div className={S.img}>
-                            <img src={'https://lh3.googleusercontent.com/proxy/A9f4lBPgC1yKRsIgcAR6Wft49nPqYAOEEygVXxN5RsqDLgUXcPcAH3nUks3eaYMSX_dAeqjskx_84TSiZ5vn7OhOjZaAr05xNsViuBiNboDdqV3nm5GtQPcrVd-H-WQln6Ui2e4YfEEdc_D3uwnhvyRk2dWAs9AoIqQsfXsiqVg'}/>
+                            <img src={'https://lh3.googleusercontent.com/proxy/zm5rnVPOIMnZJffz1Spk2yGRs-mYTugJKJW8KnTcTqQ4wBq3rFAqGClnI_uTr-8xlnSEdGbvJktpulZgWtvrvRNFbCfPuCu0fHURZ4fjJ6AOChc1b4iyJmZvoOdsj2HdKadGDflMeBZ3bCsGyuIye4b7MB09fcYd5w-8OBr0RBo'}/>
                         </div>
 
                         <div className={S.description}>
