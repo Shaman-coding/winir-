@@ -5,7 +5,7 @@ let localStorage = {
         {id: 3, srcImege: 'https://dental-clinic.expert/wp-content/uploads/2019/05/Parodontologiya-500x500.jpg', description: 'Стоматология косметическая'},
         {id: 4, srcImege: 'https://dent33.ru/upload/medialibrary/493/493ab9c139a1cb659707e6bcc07ce401.jpg', description: 'Стоматология ортопедическая'},
         {id: 5, srcImege: 'https://www.stomatologia-ilatan.ru/wp-content/uploads/2019/02/hirurgiya9.jpg', description: 'Стоматология хирургическая'},
-        {id: 6, srcImege: 'https://lh3.googleusercontent.com/proxy/zm5rnVPOIMnZJffz1Spk2yGRs-mYTugJKJW8KnTcTqQ4wBq3rFAqGClnI_uTr-8xlnSEdGbvJktpulZgWtvrvRNFbCfPuCu0fHURZ4fjJ6AOChc1b4iyJmZvoOdsj2HdKadGDflMeBZ3bCsGyuIye4b7MB09fcYd5w-8OBr0RBo', description: 'Дентальная имплантация'},
+        {id: 6, srcImege: 'https://static.tildacdn.com/tild3364-3533-4331-b434-373763373631/single_missing_tooth.png', description: 'Дентальная имплантация'},
         {id: 7, srcImege: 'https://www.ddmedic.ru/wp-content/uploads/2019/07/rentgenovskij-snimok-zuba.jpg', description: 'Рентген зубов'}
     ],
 
