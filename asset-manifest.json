@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/winir-/static/css/main.9f336f3e.chunk.css",
+    "main.js": "/winir-/static/js/main.3f4e5deb.chunk.js",
+    "main.js.map": "/winir-/static/js/main.3f4e5deb.chunk.js.map",
+    "runtime-main.js": "/winir-/static/js/runtime-main.efdc63c6.js",
+    "runtime-main.js.map": "/winir-/static/js/runtime-main.efdc63c6.js.map",
+    "static/js/2.8ce135fd.chunk.js": "/winir-/static/js/2.8ce135fd.chunk.js",
+    "static/js/2.8ce135fd.chunk.js.map": "/winir-/static/js/2.8ce135fd.chunk.js.map",
+    "index.html": "/winir-/index.html",
+    "static/css/main.9f336f3e.chunk.css.map": "/winir-/static/css/main.9f336f3e.chunk.css.map",
+    "static/js/2.8ce135fd.chunk.js.LICENSE.txt": "/winir-/static/js/2.8ce135fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efdc63c6.js",
+    "static/js/2.8ce135fd.chunk.js",
+    "static/css/main.9f336f3e.chunk.css",
+    "static/js/main.3f4e5deb.chunk.js"
+  ]
+}
